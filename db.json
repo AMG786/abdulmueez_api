@@ -29,12 +29,12 @@
     {
       "id": 1,
       "username": "mueeza",
-      "possword": "abc"
+      "password": "abc"
     },
     {
       "id": 2,
       "username": "ahmed",
-      "possword": "defr"
+      "password": "defr"
     }
   ],
   "profile": {
