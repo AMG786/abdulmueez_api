@@ -1,9 +1,9 @@
 {
   "accounts" [
   {
-     id "1"
-     username "mueeza"
-     password "0123"
+     "id": "1",
+     "username": "mueeza",
+     "password" "0123"
   }
   
  ]
